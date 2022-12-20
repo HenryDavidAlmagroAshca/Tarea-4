@@ -99,4 +99,32 @@ RCD = 0 ohm
 
 ![image](https://user-images.githubusercontent.com/116781677/208778100-61e46240-7475-408d-9658-a2244a6b9c0d.png)
 
+27.¿Cuál de dos cargas, una de 10 kohm y otra de 47 kohm, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
+
+![image](https://user-images.githubusercontent.com/116781677/208779403-54819f13-538b-4c90-9952-fa9db1579593.png)
+
+29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kohm conectada entre A y B
+
+![image](https://user-images.githubusercontent.com/116781677/208779449-53796482-562d-48de-a687-d60d2921a997.png)
+
+![image](https://user-images.githubusercontent.com/116781677/208779501-a6b08eec-8164-4000-9842-7106e1a59e6f.png)
+
+31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kohm a cada toma, una a la vez.
+
+![image](https://user-images.githubusercontent.com/116781677/208779708-d5fd207a-e6a0-419c-a1f5-70892474d806.png)
+![image](https://user-images.githubusercontent.com/116781677/208780123-a0849c41-d8bb-437e-b31f-24217a94c81e.png)
+
+33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
+
+![image](https://user-images.githubusercontent.com/116781677/208780210-6382c502-f979-458e-b773-62cf0e1788d9.png)
+![image](https://user-images.githubusercontent.com/116781677/208780462-3f5d53a6-d16d-46fd-925c-28e462398ffc.png)
+
+35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
+(a) 1 V (b) 10 V (c) 100 V (d) 1000 V
+
+![image](https://user-images.githubusercontent.com/116781677/208780775-b00b5755-c53f-458d-b773-d6c34a56468d.png)
+
+37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
+(a) ¿Qué intervalo se deberá utilizar?
+(b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
 
