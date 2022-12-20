@@ -26,3 +26,11 @@
 5.Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
 
 ![image](https://user-images.githubusercontent.com/116781677/208762353-a60d188b-81bb-4c8b-a96b-1fc549b294d6.png)
+
+7.Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.
+
+![image](https://user-images.githubusercontent.com/116781677/208764547-5a63b42b-169c-4025-b0af-ccf7dc5862e2.png)
+
+9.Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada ala fuente.
+
+ (a) 133 ohm     (b) 779 ohm     (c) 852 ohm
