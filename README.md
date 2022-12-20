@@ -1,4 +1,10 @@
-# Tarea-4
+# Informe Tarea 4 
+
+Alumno: Henry Almagro
+Nrc: 10063
+Carrera: Mecatronica
+
+
 
 1.Visualice y trace las siguientes combinaciones en serie-paralelo:
 (a) R1 en serie con la combinación en paralelo de R2 y R3
@@ -129,7 +135,6 @@ RCD = 0 ohm
 (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
 
 ![image](https://user-images.githubusercontent.com/116781677/208781288-39ffe9d5-46d9-4d3f-9a85-075c8ebd4ba2.png)
-
 ![image](https://user-images.githubusercontent.com/116781677/208781357-12940354-8c88-4fca-80e9-3a9dbf38d1ad.png)
 
 39.Para el circuito mostrado en la figura 7-77, calcule:
@@ -142,5 +147,34 @@ RCD = 0 ohm
 (d) El voltaje desde el punto A hasta el punto B
 
 ![image](https://user-images.githubusercontent.com/116781677/208781479-874b02bb-0e27-442e-864a-f3edabfc4b7f.png)
-
 ![image](https://user-images.githubusercontent.com/116781677/208781569-afe265ab-30df-4c66-a692-22d2887aad3a.png)
+
+41.Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
+
+![image](https://user-images.githubusercontent.com/116781677/208781731-171387f9-3055-4b03-bd11-886d50099199.png)
+![image](https://user-images.githubusercontent.com/116781677/208782757-437a5893-7f67-48fd-b3e3-9589fb925e3f.png)
+
+43.Determine IT y VSALIDA en la figura 7-80.
+
+![image](https://user-images.githubusercontent.com/116781677/208783025-f17978e6-f6c7-4a18-a059-574e12721ac4.png)
+![image](https://user-images.githubusercontent.com/116781677/208783123-f5f3644e-ab5d-458d-9fc9-f5b85c89727e.png)
+
+45.Repita el problema 44 para las siguientes condiciones
+
+(a) SW3 y SW4 conectados a 12 V, SW1 y SW2 a tierra
+![image](https://user-images.githubusercontent.com/116781677/208783335-4153b917-7bf4-4aea-b518-fcd8ef6a2cfb.png)
+
+(b) SW3 y SW1 conectados a 12 V, SW2 y SW4 a tierra
+![image](https://user-images.githubusercontent.com/116781677/208783354-eac6795c-aa89-48d3-8d05-9eb6390b61bd.png)
+
+(c) Todos los interruptores conectados a 12 V
+![image](https://user-images.githubusercontent.com/116781677/208783377-d11e99bd-d33e-4e21-8517-7306f31f8acb.png)
+
+47.Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de
+120,000 Æ para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión
+incrementan su resistencia en 60 mÆ, a 120,060 Æ, y los medidores a compresión disminuyen su resistencia en 60 mÆ, a 119.940 Æ, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
+
+![image](https://user-images.githubusercontent.com/116781677/208784278-a977252a-fab3-4c87-b1d3-fa76e849819b.png)
+![image](https://user-images.githubusercontent.com/116781677/208784242-40e79fb9-da90-48b8-9c20-7185e78402f2.png)
+
+
