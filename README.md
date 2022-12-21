@@ -1,10 +1,39 @@
 # Informe Tarea 4 
 
 Alumno: Henry Almagro
+
 Nrc: 10063
+
 Carrera: Mecatronica
 
+# 1. OBJETIVOS
 
+-Objetivo General
+
+Experimentar con los elementos de medida básicos desde el punto de vista eléctrico y su aplicación en circuitos. El conocimiento de los distintos métodos de resolución de los circuitos eléctricos, así como el estudio de la relación existente entre mallas, nodos corrientes y voltaje.
+
+-Objetivos Especificos
+
+Analizar circuitos en serie-paralelo y los divisores de voltaje con carga
+
+Determinar el efecto de carga de un voltímetro en un circuito
+
+Analizar y aplicar un puente de Wheatstone
+
+Localizar fallas en circuitos en serie-paralelo
+
+# 2. MARCO TEORICO (RESUMEN)
+
+-Capitulo 7 CIRCUITOS EN SERIE-PARALELO
+
+![Screenshot_20221220_062456](https://user-images.githubusercontent.com/116781677/208798792-d6c5a362-c352-4f84-9738-70523d85aca6.png)
+
+-Capitulo 8 TEOREMAS DE CIRCUITOS Y CONVERSIONES
+
+![Screenshot_20221220_062514](https://user-images.githubusercontent.com/116781677/208798808-6efb730f-aa8b-4081-98a8-130b223e0ed5.png)
+
+
+3 3. RESOLUCION DE EJERCICIOS
 
 1.Visualice y trace las siguientes combinaciones en serie-paralelo:
 (a) R1 en serie con la combinación en paralelo de R2 y R3
@@ -176,5 +205,21 @@ incrementan su resistencia en 60 mÆ, a 120,060 Æ, y los medidores a compresió
 
 ![image](https://user-images.githubusercontent.com/116781677/208784278-a977252a-fab3-4c87-b1d3-fa76e849819b.png)
 ![image](https://user-images.githubusercontent.com/116781677/208784242-40e79fb9-da90-48b8-9c20-7185e78402f2.png)
+
+# 4. VIDEO
+
+https://youtu.be/hy2OzkPyDA4
+
+# 5. CONCLUSIONES
+
+• Vimos que en un circuito en serie-paralelo se aplican las mismas leyes que un circuito en paralelo o en un circuito en serie y poco a poco podemos irlo reduciendo.
+
+• Aprendimos a calcular los efectos de carga tanto en un voltímetro como en un amperímetro y vimos los efectos que estos causan en una red.
+
+• Al convertir fuentes de voltaje y corriente observamos que, aunque las fuentes son equivalentes, las corrientes y voltajes en ellas no pueden ser los mismos.
+
+# 6. BIBLIOGRAFIA
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.). México: Pearson Educación. Recuperado el Noviembre de 2022
 
 
